@@ -8,6 +8,7 @@ Repo > Code > Download zip file
 Also make sure you run the game inside the same directory where words.txt is located.
 If you run it from another folder, you’ll get a “File Not Found” error.
 
+
 🎮 About
 Generates a random letter grid.
 Lets the user find words by clicking letters.
